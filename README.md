@@ -86,3 +86,10 @@ Cloud Enterprise Network (CEN): Helps build and manage a global network that sup
 
  [^1]: Alibaba cloud, CEN : [Link](https://www.alibabacloud.com/en/product/cen?_p_lc=1 "CEN")
  [^2]: Alibaba cloud, ECS : [https://www.alibabacloud.com/en/product/ecs?_p_lc=1&spm=a3c0i.10410698.6791778070.152.630d8fc76POVGb](https://www.alibabacloud.com/en/product/ecs?_p_lc=1&spm=a3c0i.10410698.6791778070.152.630d8fc76POVGb)
+
+
+---
+
+# Lab 8
+
+[ I am coding ](https://github.com/PYTHON01100100/Learning_Markdown_Language/blob/main/Goo5gv3WEAARHmy.jpg)(https://youtu.be/-Ha11mK8Sao)
