@@ -80,7 +80,7 @@ VPC
 # Lab 7
 Cloud Enterprise Network (CEN): Helps build and manage a global network that supports communication between data centers and cloud resources [^1]
 
-[File Storage NAs] (https://www.alibabacloud.com/en/product/nas?_p_lc=1&spm=a2796.11222794.6791778070.182.2e6827a293gTPo) : Simple, scalable, on-demand and reliable network attached storage for use with ECS instances, HPC and Container Service.
+[File Storage NAs](https://www.alibabacloud.com/en/product/nas?_p_lc=1&spm=a2796.11222794.6791778070.182.2e6827a293gTPo) : Simple, scalable, on-demand and reliable network attached storage for use with ECS instances, HPC and Container Service.
 
 
 
