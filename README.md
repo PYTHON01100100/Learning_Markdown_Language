@@ -66,11 +66,8 @@ __Bold__
 > Windows is Rotten OS and a big malware
 
 
-VPC
- └── VSwitch
-      └── ECS
 
-**VPC
-└── VSwitch
-└── ECS**
+
+<pre> ```text VPC └── VSwitch └── ECS ``` </pre>
+
 ---
