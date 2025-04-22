@@ -74,3 +74,10 @@ VPC
  └── VSwitch
       └── ECS
 ```
+
+---
+
+# Lab 7
+Cloud Enterprise Network (CEN): Helps build and manage a global network that supports communication between data centers and cloud resources [^1]
+
+ [^1]: Alibaba cloud, CEN : [https://www.alibabacloud.com/en/product/cen?_p_lc=1](https://www.alibabacloud.com/en/product/cen?_p_lc=1)
