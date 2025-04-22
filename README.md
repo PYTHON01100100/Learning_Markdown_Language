@@ -77,7 +77,15 @@ VPC
 
 ---
 
+
+---
 # Lab 7
+![I am coding](https://github.com/PYTHON01100100/Learning_Markdown_Language/blob/main/Goo5gv3WEAARHmy.jpg)(https://youtu.be/-Ha11mK8Sao)
+
+
+---
+
+# Lab 8
 Cloud Enterprise Network (CEN): Helps build and manage a global network that supports communication between data centers and cloud resources [^1]
 
 [File Storage NAS](https://www.alibabacloud.com/en/product/nas?_p_lc=1&spm=a2796.11222794.6791778070.182.2e6827a293gTPo) : Simple, scalable, on-demand and reliable network attached storage for use with ECS[^2] instances, HPC and Container Service.
@@ -88,9 +96,3 @@ Cloud Enterprise Network (CEN): Helps build and manage a global network that sup
  [^2]: Alibaba cloud, ECS : [https://www.alibabacloud.com/en/product/ecs?_p_lc=1&spm=a3c0i.10410698.6791778070.152.630d8fc76POVGb](https://www.alibabacloud.com/en/product/ecs?_p_lc=1&spm=a3c0i.10410698.6791778070.152.630d8fc76POVGb)
 
 
-
-____
-
-# Lab 8
-
-![I am coding](https://github.com/PYTHON01100100/Learning_Markdown_Language/blob/main/Goo5gv3WEAARHmy.jpg)(https://youtu.be/-Ha11mK8Sao)
