@@ -80,7 +80,8 @@ VPC
 
 ---
 # Lab 7
-![I am coding](https://github.com/PYTHON01100100/Learning_Markdown_Language/blob/main/Goo5gv3WEAARHmy.jpg)(https://youtu.be/-Ha11mK8Sao)
+[![I am coding](https://github.com/PYTHON01100100/Learning_Markdown_Language/raw/main/Goo5gv3WEAARHmy.jpg)](https://youtu.be/-Ha11mK8Sao)
+
 
 
 ---
