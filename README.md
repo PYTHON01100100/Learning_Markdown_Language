@@ -49,7 +49,7 @@ __Bold__
 - A sublist
     - I love python
     - I am feeing a sleep
-    - VPC CONTAIES VSWITCHES AND ECSs
+    - A VPC (Virtual Private Cloud) contains VSwitches, and VSwitches contain ECS instances.
 - B
     - I love zelda and nintendo
     - Nier the best game
@@ -65,4 +65,12 @@ __Bold__
 >
 > Windows is Rotten OS and a big malware
 
+
+VPC
+ └── VSwitch
+      └── ECS
+
+**VPC
+└── VSwitch
+└── ECS**
 ---
